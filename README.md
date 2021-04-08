@@ -78,4 +78,40 @@
   Virtualization refers to the creation of a virtual resource such as a server, desktop, operating system, file, storage or network.
   The main goal of virtualization is to manage workloads by radically transforming traditional computing to make it more scalable.
 
-## 
+```
+Note:
+    To access cloud services, we need a platform from which we can access the resources. And the platform which we commonly use is known as aws. There are more patforms available from which we can access the services. These are Azure, GCP, etc.
+```
+
+## What is AWS
+  AWS stands for Amazon Web Services.
+  The AWS service is provided by the Amazon that uses distributed IT infrastructure to provide different IT resources available on demand. 
+  It provides different services such as infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS).
+  
+## Some common AWS Services
+
+  ## EC2
+    EC2 stands for Amazon Elastic Compute Cloud.
+Amazon EC2 is a web service that provides resizable compute capacity in the cloud.
+Amazon EC2 reduces the time required to obtain and boot new user instances to minutes rather than in older days, if you need a server then you had to put a purchase order, and cabling is done to get a new server which is a very time-consuming process. 
+Now, Amazon has provided an EC2 which is a virtual machine in the cloud that completely changes the industry.
+
+  ## EBS
+    EBS stands for Elastic Block Store.
+EC2 is a virtual server in a cloud while EBS is a virtual disk in a cloud.
+Amazon EBS allows you to create storage volumes and attach them to the EC2 instances.
+Once the storage volume is created, you can create a file system on the top of these volumes, and then you can run a database, store the files, applications or you can even use them as a block device in some other way.
+
+  ## S3
+    S3 stands for Simple Storage Service.
+S3 is a safe place to store the files.
+It is Object-based storage, i.e., you can store the images, word files, pdf files, etc.
+The files which are stored in S3 can be from 0 Bytes to 5 TB.
+Files are stored in Bucket. A bucket is like a folder available in S3 that stores the files.
+
+  ## VPC
+    VPC stands for Virtual Private Cloud.
+Amazon Virtual Private Cloud (Amazon VPC) provides a logically isolated area of the AWS cloud where you can launch AWS resources in a virtual network that you define.
+You have complete control over your virtual networking environment, including a selection of your IP address range, the creation of subnets, and configuration of route tables and network gateways.
+
+
