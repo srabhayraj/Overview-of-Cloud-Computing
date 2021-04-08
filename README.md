@@ -36,8 +36,9 @@
   - Reliability
 
 ## Types of Cloud Services or Cloud Computing Service Models
-  <b>IaaS</b> - Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet. Eg., AWS {S3, EC2}, GCE (Google Compute Engine), Microsoft Azure.
-  <b>PaaS</b> - Platform-as-a-service (PaaS) is a type of cloud computing offering in which the service provider delivers a platform to clients, enabling them to develop, run, and manage business applications without the need to build and maintain the infrastructure. Eg., AWS Elastic Beanstalk, AWS Lambda
-  <b>SaaS</b> - Software as a service (SaaS) is a cloud computing model in which a third-party provider host the applications and makes them available to customers over the Internet. Eg., Google Workspace, Dropbox, Cisco WebEx
+  <b>IaaS</b> - Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet. Eg., AWS {S3, EC2}, GCE (Google Compute Engine), Microsoft Azure. </br>
+  <b>PaaS</b> - Platform-as-a-service (PaaS) is a type of cloud computing offering in which the service provider delivers a platform to clients, enabling them to develop, run, and manage business applications without the need to build and maintain the infrastructure. Eg., AWS Elastic Beanstalk, AWS Lambda </br>
+  <b>SaaS</b> - Software as a service (SaaS) is a cloud computing model in which a third-party provider host the applications and makes them available to customers over the Internet. Eg., Google Workspace, Dropbox, Cisco WebEx </br>
 
+[!service_model](https://github.com/srabhayraj/blob/master/Overview-of-Cloud-Computing/images/service_model.png)
 
