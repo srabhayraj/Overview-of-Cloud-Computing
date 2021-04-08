@@ -40,5 +40,5 @@
   <b>PaaS</b> - Platform-as-a-service (PaaS) is a type of cloud computing offering in which the service provider delivers a platform to clients, enabling them to develop, run, and manage business applications without the need to build and maintain the infrastructure. Eg., AWS Elastic Beanstalk, AWS Lambda </br>
   <b>SaaS</b> - Software as a service (SaaS) is a cloud computing model in which a third-party provider host the applications and makes them available to customers over the Internet. Eg., Google Workspace, Dropbox, Cisco WebEx </br>
 
-![Service_model](https://github.com/srabhayraj/Overview-of-Cloud-Computing/blob/master/images/service_model.png)
+![Service_model](https://github.com/srabhayraj/Overview-of-Cloud-Computing/blob/main/images/service_model.png)
 
