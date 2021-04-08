@@ -78,15 +78,15 @@
   Virtualization refers to the creation of a virtual resource such as a server, desktop, operating system, file, storage or network.
   The main goal of virtualization is to manage workloads by radically transforming traditional computing to make it more scalable.
 
-```
-Note:
-    To access cloud services, we need a platform from which we can access the resources. And the platform which we commonly use is known as aws. There are more patforms available from which we can access the services. These are Azure, GCP, etc.
-```
-
 ## What is AWS
   AWS stands for Amazon Web Services.
   The AWS service is provided by the Amazon that uses distributed IT infrastructure to provide different IT resources available on demand. 
   It provides different services such as infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS).
+  
+```
+Note:
+    To access cloud services, we need a platform from which we can access the resources. And the platform which we commonly use is known as aws. There are more patforms available from which we can access the services. These are Azure, GCP, etc.
+```
   
 ## Some common AWS Services
 
