@@ -54,13 +54,11 @@
 
 ## Cloud Computing Architecture
 
-</br>
 ![Cloud_architecture](https://github.com/srabhayraj/Overview-of-Cloud-Computing/blob/main/images/cloud_architecture.jpg)
 </br></br>
 
 ## Era before Cloud Computing or Earlier Strategy
 
-</br>
 ![Earlier_strategy](https://github.com/srabhayraj/Overview-of-Cloud-Computing/blob/main/images/earlier_strategy.png)
 </br></br>
   - Information on centralized servers. 
